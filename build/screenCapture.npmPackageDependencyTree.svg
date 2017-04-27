@@ -93,7 +93,7 @@
 <tspan x="10" y="1450">  │ ├─┬ parents@1.0.1 </tspan>
 <tspan x="10" y="1466">  │ │ └── path-platform@0.11.15 </tspan>
 <tspan x="10" y="1482">  │ ├── path-browserify@0.0.0 </tspan>
-<tspan x="10" y="1498">  │ ├── process@0.11.9 </tspan>
+<tspan x="10" y="1498">  │ ├── process@0.11.10 </tspan>
 <tspan x="10" y="1514">  │ ├── punycode@1.4.1 </tspan>
 <tspan x="10" y="1530">  │ ├── querystring-es3@0.2.1 </tspan>
 <tspan x="10" y="1546">  │ ├── read-only-stream@2.0.0 </tspan>
